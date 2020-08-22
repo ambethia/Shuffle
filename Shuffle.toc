@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Shuffle
+## Notes: Shuffle Helper
+## Author: self
+## Version: 1.0.0
+
+Core.lua
